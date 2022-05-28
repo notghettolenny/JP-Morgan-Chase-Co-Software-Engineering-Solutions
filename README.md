@@ -1,4 +1,4 @@
-# JP-Morgan-Chase-Co-Software-Enginnering-Solutions
+# JP-Morgan-Chase-Co-Software-Engineering-Solutions
 
 # module 1
 Interface with a stock price data feed
